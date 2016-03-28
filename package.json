@@ -1,0 +1,14 @@
+{
+  "name": "Protractor-CucumberJS-Example",
+  "version": "0.0.1",
+  "description": "a demo for using CucumberJS with protractor",
+  "repository": {},
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "chai-as-promised": "^5.1.0",
+    "cucumber": "^0.9.2",
+    "phantomjs2": "^2.0.2",
+    "protractor": "^3.0.0",
+    "protractor-cucumber-framework": "^0.3.1"
+  }
+}
